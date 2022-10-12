@@ -1,5 +1,5 @@
 # CodeQuotient_Programming-Abstraction
-This is the repo for all Code solution for Code Quotient course of Programming Abstraction. Codes are in JAVA &amp; C++
+This is the repo for all Code solution for Code Quotient course of Programming Abstraction. Codes are in JAVA &amp; C++ (check the extensions of the file to know the language of codes)
 
 ## Section 1
 [1. Reverse a 4 digit number](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-1/reverse4Digit.cpp)
@@ -50,3 +50,20 @@ This is the repo for all Code solution for Code Quotient course of Programming A
 
 [8. Make Array Positive](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-3/makeArrayPositive.cpp)
 
+
+## Section 4
+[1. Grab the recursive Gifts](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/enjoyGift.cpp)
+
+[2. Count the square numbers](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/countSquareNumber.java)
+
+[3. Pascal Triangle](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/pascalTriangle.cpp)
+
+[4. Find the winner in elections](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/findWinner.java)
+
+[5. Scoring based on difficulty level](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/checkScoring.cpp)
+
+[6. Array Sum and Pair Product Puzzle](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/pairExist.cpp)
+
+[7. Turning point in stock prices](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/turningPoint.cpp)
+
+[8. Compare two Array](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/compareSecondArray.cpp)
