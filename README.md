@@ -67,3 +67,41 @@ This is the repo for all Code solution for Code Quotient course of Programming A
 [7. Turning point in stock prices](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/turningPoint.cpp)
 
 [8. Compare two Array](https://github.com/YuvrajxChopra/CodeQuotient_Programming-Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-4/compareSecondArray.cpp)
+
+
+# Section 5
+[1. Action Game](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-5/actionGame.cpp)
+[2. Next Palindrome](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-5/nextPalindrome.cpp)
+[3. Same Digit](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-5/sameDigit.cpp)
+[4. Continous Substraction Game](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-5/subtractionGame.cpp)
+
+
+# Section 6
+[1. Form a new number](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-6/evenDigits.java)
+[2. Fibonacci sequence using recursion](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-6/fibonacci.cpp)
+[3. Factorial using recursion](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-6/fictorial.cpp)
+[4. Largest number possible with digits](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-6/formLargeNumber.cpp)
+[5. Make pairs in the party](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-6/minResult.cpp)
+
+# Section 7
+[1. Check the numbers for power of 2](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-7/findPower.cpp)
+[2. How much the team knows](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-7/maxKnowledgeTeam.java)
+[3. Find the rightmost set bit of a number](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-7/rishMostBit.java)
+[4. Count the set bits of a number](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-7/countBits.java)
+
+# Section 8
+[1. Rotate a 2-D array by 90 degrees](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/rotate90Degree.cpp)
+[2. Collect coins in snake game](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/snakeGame.cpp)
+[3. Escape The Bombs](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/minScore.cpp)
+[4. Bit Difference](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/bitDifferents.cpp)
+[5. Toggle the number except kth bit](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/toggleExceptKthBit.cpp)
+[6. Counter Diagonal Traversal](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-8/counterDiagonal.java)
+
+
+#Section 9
+[1. Check if strings are rotations or not](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/isRotation.java)
+[2. Compress a string](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/compressString.java)
+[3. Expand a string](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/expandString.java)
+[4. Vowel Substrings](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/countVowelSubstr.java)
+[5. Keyword Count](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/keyWordCount.java)
+[6. Reverse the words of a string](https://github.com/YuvrajxChopra/CodeQuotient-Programming_Abstraction/blob/main/CodeQuotient%20-%20Programming%20Abstraction/Section-9/revWordStr.java)
